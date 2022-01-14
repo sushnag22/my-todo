@@ -1,4 +1,10 @@
-# Project Base for Vaadin and Spring Boot
+Todo application using Vaadin Flow
+
+## Reference 
+
+[Vaadin Tutorial: Quick Start with Flow](https://vaadin.com/docs/v14/flow/guide/quick-start)
+
+##Project Base for Vaadin and Spring Boot
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
