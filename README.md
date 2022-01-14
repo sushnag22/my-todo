@@ -1,8 +1,14 @@
+# my-todo
+
 Todo application using Vaadin Flow
 
 ## Reference 
 
 [Vaadin Tutorial: Quick Start with Flow](https://vaadin.com/docs/v14/flow/guide/quick-start)
+
+## Demo
+
+![completed-app](https://user-images.githubusercontent.com/74103829/149472456-0aaae62c-0603-4a7b-b89e-c462e8ddffc1.gif)
 
 ## Project Base for Vaadin and Spring Boot
 
